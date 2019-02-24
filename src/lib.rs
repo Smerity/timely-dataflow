@@ -5,7 +5,7 @@
 //! **Serialization**: The [`abomonation`](../abomonation/index.html) crate contains simple and highly unsafe
 //! serialization routines.
 //!
-//! **Communication**: The [`timely_communication`](../timely_communication/index.html) crate defines several primitives for
+//! **Communication**: The [`timely_communication`](communication/index.html) crate defines several primitives for
 //! communicating between dataflow workers, and across machine boundaries.
 //!
 //! **Progress tracking**: The [`timely::progress`](progress/index.html) module defines core dataflow structures for
